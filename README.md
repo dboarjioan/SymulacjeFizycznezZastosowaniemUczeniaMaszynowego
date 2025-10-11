@@ -1,1 +1,2 @@
-# Symulacje fizyczne z zastosowaniem uczenia maszynowego
+## Symulacje fizyczne z zastosowaniem uczenia maszynowego
+#zadanie 1:
